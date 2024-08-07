@@ -1,0 +1,4 @@
+docker ps
+docker ls
+docker start
+docker stop
